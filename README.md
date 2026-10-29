@@ -1,4 +1,4 @@
-"""# LaundryLens: A CNN-Based Smart Clothing Classification System
+# LaundryLens: A CNN-Based Smart Clothing Classification System
 
 LaundryLens is a Deep Learning project that classifies clothing images into 10 categories using a Convolutional Neural Network (CNN). It uses the Fashion-MNIST dataset and TensorFlow/Keras to train and evaluate an image-classification model.
 
